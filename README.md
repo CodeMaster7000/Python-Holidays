@@ -7,7 +7,7 @@ A set of simple Python scripts to determine the up-to-date holidays of any count
 ## Prerequisites
 
 - Python 3
-- `holidays` module.
+- `holidays` module
 
 This can be installed simply with `pip install holidays`.
 
