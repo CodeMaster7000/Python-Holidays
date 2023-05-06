@@ -1,4 +1,4 @@
-#Ptyon program to print the holidays of a particular country.
+#Ptyon program to print the holidays of a certain country.
 
 from datetime import date
 import holidays
