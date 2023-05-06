@@ -11,7 +11,9 @@ A set of simple Python scripts to determine the up-to-date holidays of any count
 
 This can be installed simply with `pip install holidays`.
 
-`_holidays.HolidayBase(years=[], expand=True, observed=True, prov=None, state=None)_`
+### Syntax
+
+`holidays.HolidayBase(years=[], expand=True, observed=True, prov=None, state=None)`
 
 ## Usage
 
