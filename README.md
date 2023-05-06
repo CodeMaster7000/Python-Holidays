@@ -2,7 +2,7 @@
 
 ## About
 
-A set of simple Python scripts to determine whether a specific date is a holiday, as quickly and flexibly as possible!
+A set of simple Python scripts to determine the up-to-date holidays of any country/countries of your choice!
 
 ## Prerequisites
 
@@ -12,3 +12,7 @@ A set of simple Python scripts to determine whether a specific date is a holiday
 This can be installed simply with `pip install holidays`.
 
 `_holidays.HolidayBase(years=[], expand=True, observed=True, prov=None, state=None)_`
+
+## Usage
+
+Head to the `src` folder and navigate to the script you wish to run.
