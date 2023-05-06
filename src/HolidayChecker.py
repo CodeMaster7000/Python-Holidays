@@ -1,3 +1,5 @@
+#Python program to check if the inputted day is a holiday or not.
+
 from datetime import date
 import holidays
 
